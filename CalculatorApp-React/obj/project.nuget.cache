@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "gSzU9/2tJyIrEMvNhTXZ/Cz/Zdz/ZcbyPrsiWnjjDQwJpcG1yYAauG6gdZVcayiQUgjc3yreEKrxUwaC1ohrVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Philip.Blankenship\\source\\repos\\CalculatorApp-React\\CalculatorApp-React\\CalculatorApp-React.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Philip.Blankenship\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\5.0.17\\microsoft.aspnetcore.spaservices.extensions.5.0.17.nupkg.sha512",
+    "C:\\Users\\Philip.Blankenship\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Philip.Blankenship\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Philip.Blankenship\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "C:\\Users\\Philip.Blankenship\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\Philip.Blankenship\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Philip.Blankenship\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Philip.Blankenship\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Philip.Blankenship\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Philip.Blankenship\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Philip.Blankenship\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
